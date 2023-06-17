@@ -1,0 +1,20 @@
+* {
+    background-color: #ffdff5;
+}
+
+h1,
+h3 {
+    font-family: 'Monaco', 'Verdana', sans-serif;
+    color: #850085
+}
+
+p,
+li {
+   font-family: 'Helvetica', 'Arial', sans-serif;
+   color:rgb(24, 60, 107)
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
